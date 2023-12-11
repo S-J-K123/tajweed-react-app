@@ -1,0 +1,36 @@
+.home__container{
+  width: 90%;
+  max-width: 600px;
+    background: white;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+    margin: 100px auto 0;
+    /* margin-top: 24px; */
+}
+
+.buttons{
+    background: #fff;
+    color: #222;
+    font-weight: 500;
+    width: 100%;
+    border:  1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.3s;
+}
+
+.buttons:hover{
+    background-color: #5a3962;
+    color: #fff;
+}
+
+h4{
+    margin-top: 16px;
+}

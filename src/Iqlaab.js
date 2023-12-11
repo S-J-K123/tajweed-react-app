@@ -1,0 +1,51 @@
+export const data = [
+    {
+        question: "What does Iqlaab mean?",
+        option1: "To Make Clear",
+        option2: "To Bounce",
+        option3: "To Change",
+        option4: "To Hide",
+        ans: 3,
+    },
+    {
+        question: "What is Idhaar Halqi applied to?",
+        option1: "Throat Letters",
+        option2: "Noon Saakinah and Tanween",
+        option3: "Ikhfah",
+        option4: "Idghaam",
+        ans: 2,
+    },
+    {
+        question: "What is the letter of Iqlaab?",
+        option1: "م",
+        option2: "ي",
+        option3: "ن",
+        option4: "ب",
+        ans: 4,
+    },
+    {
+        question: "What does the Noon Saakinah or Tanween change into when followed by a ب ?",
+        option1: "ب",
+        option2: "Qalqalah Letters",
+        option3: "ق",
+        option4: "م",
+        ans: 4,
+    },
+    {
+        question: "Choose the example for Iqlaab",
+        option1: "من يعمل",
+        option2: "من بعد",
+        option3: "عليم حكيم",
+        option4: "من شرّ",
+        ans: 2,
+    },
+    {
+        question: "What do we do to the letter م ?",
+        option1: "We Make Ghunnah",
+        option2: "We Hide It",
+        option3: "We Bounce It",
+        option4: "We Merge It",
+        ans: 1,
+    },
+
+]
