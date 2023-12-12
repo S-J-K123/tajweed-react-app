@@ -8,7 +8,7 @@ export const data = [
         ans: 3,
     },
     {
-        question: "What is Idhaar Halqi applied to?",
+        question: "What is Iqlaab applied to?",
         option1: "Throat Letters",
         option2: "Noon Saakinah and Tanween",
         option3: "Ikhfah",
