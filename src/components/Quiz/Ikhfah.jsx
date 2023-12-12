@@ -58,7 +58,7 @@ setQuestion(data[0]);
 
   return (
     <div className="container">
-      <h1>Tajweed Quiz</h1>
+      <h1 className="title">Tajweed Quiz</h1>
       <hr />
       {
         result? <></> :<>

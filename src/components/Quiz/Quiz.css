@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 .container {
-  width: 90%;
-  max-width: 600px;
+  width: 93%;
+  max-width: 620px;
   background: white;
   color: #262626;
   display: flex;
@@ -11,6 +11,7 @@
   padding: 30px;
   margin: 100px auto 0;
   margin-top: 24px;
+  height: 100%;
 }
 
 .container hr {
@@ -20,14 +21,14 @@
 }
 
 .container h2 {
-  font-size: 27px;
+  font-size: 24px;
   font-weight: 500;
 }
 
 .container ul li {
   display: flex;
   align-items: center;
-  height: 70px;
+  height: 66px;
   padding-left: 15px;
   border: 1px solid #686868;
   border-radius: 8px;
@@ -69,4 +70,9 @@
 .container .wrong {
   background: #ffebeb;
   border-color: #ff4a4a;
+}
+
+
+.title{
+    font-size: 26px;
 }
