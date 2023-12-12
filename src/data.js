@@ -24,7 +24,7 @@ export const data = [
         ans: 4,
     },
     {
-        question: "What comes after a Noon saakinah or Tanween for a Idhaar rule?",
+        question: "What comes after a Noon saakinah or Tanween in a Idhaar rule?",
         option1: "ب",
         option2: "Qalqalah Letters",
         option3: "Any of the Throat Letters",
