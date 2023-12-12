@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 .container {
   width: 90%;
-  max-width: 500px;
+  max-width: 600px;
   background: white;
   color: #262626;
   display: flex;
   flex-direction: column;
   gap: 20px;
   border-radius: 10px;
-padding: 30px;
+  padding: 30px;
   margin: 100px auto 0;
   margin-top: 24px;
 }
@@ -35,6 +35,10 @@ padding: 30px;
   font-size: 20px;
   cursor: pointer;
 }
+.container ul li:hover {
+    background-color: #5a3962;
+    color: #fff;
+  }
 
 .container button {
   margin: auto;
@@ -46,6 +50,10 @@ padding: 30px;
   font-weight: 500;
   border-radius: 8px;
   cursor: pointer;
+}
+.container button:hover {
+  background-color: #5a3962;
+  color: #fff;
 }
 
 .container .index {
